@@ -18,11 +18,8 @@ README
 </a>
 </p>
 
-👨‍💻 Sobre mim
 Estudante de Segurança da Informação (conclusão em 2026), com atuação prática em Suporte Técnico e Infraestrutura de TI.
 Experiência em montagem e manutenção de hardware, suporte presencial e remoto, e gerenciamento de redes e equipamentos.
-
-Desenvolvi um NOC (Network Operations Center) completo com Zabbix, cobrindo firewall, switches, APs Wi-Fi, servidores e impressoras em topologia de rede própria — projeto em evolução contínua, com migração planejada para Grafana.
 
 🔭 Atualmente trabalhando em: NOC com Zabbix → Grafana
 
@@ -44,7 +41,6 @@ Monitoramento & Infraestrutura
 Sistemas Operacionais
 <p>
 <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"/>
-<img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"/>
 <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
 </p>
 
@@ -53,34 +49,4 @@ Cloud & Produtividade
 <img src="https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoftazure&logoColor=white"/>
 <img src="https://img.shields.io/badge/Microsoft_365-D83B01?style=for-the-badge&logo=microsoftoffice&logoColor=white"/>
 <img src="https://img.shields.io/badge/Active_Directory-003366?style=for-the-badge&logo=microsoft&logoColor=white"/>
-</p>
-
-Linguagens & Automação
-<p>
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white"/>
-<img src="https://img.shields.io/badge/TOTVS_Datasul-003366?style=for-the-badge&logo=data&logoColor=white"/>
-</p>
-
-📊 Estatísticas do GitHub
-<p align="center">
-<img height="160em" src="https://github-readme-stats.vercel.app/api?username=adriel-teles&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
-<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adriel-teles&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
-
-🚀 Projetos em Destaque
-🖥️ NOC Dashboard — Zabbix
-Dashboard de monitoramento de infraestrutura corporativa com múltiplas páginas: Firewall Fortinet, Switches Ubiquiti, Access Points Wi-Fi, Servidores e Impressoras Canon. Inclui templates otimizados e script Python para automação via API.
-
-Zabbix Grafana Fortinet Ubiquiti Python Redes
-
-📫 Contato
-<p align="center">
-Quer conversar sobre TI, infraestrutura ou cibersegurança?
-
-Me manda uma mensagem no <a href="https://linkedin.com/in/adriel-teles">LinkedIn</a> ou um e-mail em <a href="mailto:seu@email.com">seu@email.com</a>
-</p>
-
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=adriel-teles&color=00b4cc&style=flat-square&label=Visualizações+do+perfil"/>
 </p>

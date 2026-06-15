@@ -6,22 +6,10 @@ README
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00B4CC&center=true&vCenter=true&width=600&lines=Estudante+de+Seguran%C3%A7a+da+Informa%C3%A7%C3%A3o;Suporte+T%C3%A9cnico+%26+Infraestrutura+de+TI;Rumo+%C3%A0+Ciberseguran%C3%A7a+%F0%9F%9A%80" alt="Typing SVG" />
 </p>
 
-<p align="center">
-<a href="https://linkedin.com/in/adriel-teles" target="_blank">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-<a href="mailto:seu@email.com">
-<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-<a href="https://github.com/adriel-teles" target="_blank">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-</p>
-
-Estudante de Segurança da Informação (conclusão em 2026), com atuação prática em Suporte Técnico e Infraestrutura de TI.
+Estudante de Segurança da Informação, com atuação prática em Suporte Técnico e Infraestrutura de TI.
 Experiência em montagem e manutenção de hardware, suporte presencial e remoto, e gerenciamento de redes e equipamentos.
 
-🔭 Atualmente trabalhando em: NOC com Zabbix → Grafana
+🔭 Atualmente trabalhando em: Suporte de TI N1
 
 🌱 Estudando: Segurança da Informação
 
